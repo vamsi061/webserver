@@ -1,0 +1,88 @@
+=====================
+INSTALLING FOR DEBIAN
+=====================
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3 is already the newest version (3.9.2-3).
+python3-pip is already the newest version (20.3.4-4).
+The following packages were automatically installed and are no longer required:
+  alsa-tools android-framework-res android-libaapt android-libandroidfw
+  android-libbacktrace android-libunwind android-libutils
+  android-libziparchive insserv junit libantlr-java libantlr3-runtime-java
+  libapache-pom-java libatinject-jsr330-api-java libcommons-cli-java
+  libcommons-io-java libcommons-lang3-java libcommons-parent-java libct4
+  libguava-java libjsr305-java libmotif-common libsmali-java
+  libstringtemplate-java libxm4 libxmlunit-java libxpp3-java
+  libyaml-snake-java linux-headers-5.10.0-8parrot1-common linux-kbuild-5.10
+  lshw-gtk sqsh startpar sysv-rc
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-pip is already the newest version (20.3.4-4).
+The following packages were automatically installed and are no longer required:
+  alsa-tools android-framework-res android-libaapt android-libandroidfw
+  android-libbacktrace android-libunwind android-libutils
+  android-libziparchive insserv junit libantlr-java libantlr3-runtime-java
+  libapache-pom-java libatinject-jsr330-api-java libcommons-cli-java
+  libcommons-io-java libcommons-lang3-java libcommons-parent-java libct4
+  libguava-java libjsr305-java libmotif-common libsmali-java
+  libstringtemplate-java libxm4 libxmlunit-java libxpp3-java
+  libyaml-snake-java linux-headers-5.10.0-8parrot1-common linux-kbuild-5.10
+  lshw-gtk sqsh startpar sysv-rc
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+php is already the newest version (2:7.4+76).
+The following packages were automatically installed and are no longer required:
+  alsa-tools android-framework-res android-libaapt android-libandroidfw
+  android-libbacktrace android-libunwind android-libutils
+  android-libziparchive insserv junit libantlr-java libantlr3-runtime-java
+  libapache-pom-java libatinject-jsr330-api-java libcommons-cli-java
+  libcommons-io-java libcommons-lang3-java libcommons-parent-java libct4
+  libguava-java libjsr305-java libmotif-common libsmali-java
+  libstringtemplate-java libxm4 libxmlunit-java libxpp3-java
+  libyaml-snake-java linux-headers-5.10.0-8parrot1-common linux-kbuild-5.10
+  lshw-gtk sqsh startpar sysv-rc
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+--------------------
+
+Requirement already satisfied: requests in /usr/local/lib/python3.9/dist-packages (2.24.0)
+Requirement already satisfied: certifi>=2017.4.17 in /usr/lib/python3/dist-packages (from requests) (2020.6.20)
+Requirement already satisfied: idna<3,>=2.5 in /usr/lib/python3/dist-packages (from requests) (2.10)
+Requirement already satisfied: chardet<4,>=3.0.2 in /usr/local/lib/python3.9/dist-packages (from requests) (3.0.4)
+Requirement already satisfied: urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1 in /usr/local/lib/python3.9/dist-packages (from requests) (1.25.11)
+
+--------------------
+
+Requirement already satisfied: packaging in /usr/local/lib/python3.9/dist-packages (21.0)
+Requirement already satisfied: pyparsing>=2.0.2 in /usr/lib/python3/dist-packages (from packaging) (2.4.7)
+
+--------------------
+
+=========
+COMPLETED
+=========
+
