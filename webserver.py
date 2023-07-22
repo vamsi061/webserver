@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+a#!/usr/bin/env python3
 
 VERSION = '1.3.0'
 
@@ -187,7 +187,7 @@ def setup_site():
         shutil.copytree(f".sites/{website}", os.path.join(destination_dir, website))
         shutil.copy(".sites/ip.php", destination_dir)
     except Exception as e:
-        print(f"\n{RED}[{WHITE}!{RED}]{RED} An error occurred while setting up the server: {str(e)}")
+        print(" ")
         return
 
     print(f"\n{RED}[{WHITE}-{RED}]{BLUE} Starting PHP server...{WHITE}")
