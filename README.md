@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/DIpuNTI.jpg"></p>
+<p align="center"><img src="https://drive.google.com/file/d/1R_3reVVobwsd_DpZNFZEuXM__FqQfGy_/view?usp=sharing"></p>
 
 <p align="center">
     <a href="https://twitter.com/thewhiteh4t">
